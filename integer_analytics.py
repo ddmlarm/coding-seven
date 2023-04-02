@@ -4,7 +4,7 @@ Southern Utah University
 CSIS-1300-01-SP23: Programming with Python
 
 Coding Seven 
-GitHub: 
+GitHub: https://github.com/ddmlarm/coding-seven
 Requirements: Numbers-1.txt located in folder with integer_analytics.py 
 """
 
